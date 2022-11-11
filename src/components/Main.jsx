@@ -18,7 +18,9 @@ import pojok from './image/pojok__link.png';
 import pojok2 from './image/pojok__write.png';
 import watsap from './image/whatsapp.png';
 import search from './image/search.png';
-import left from './image/left.png';
+import twelve from './image/twelve.png';
+
+
 
 
 export default function Main() {
@@ -147,10 +149,10 @@ export default function Main() {
               <div className='wrapper'>
                 <p className='wrapper__p'>Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.</p>
                 <div className='wrapper__out'>
-                  <img src={eleven} alt="eleven" />
+                  <img src={twelve} alt="eleven" />
                   <div>
-                    <h3 className='wrapper__h3'>Guy Hawkins</h3>
-                    <p className='wrapper__p2'>32 Tahun, Karyawan</p>
+                    <h3 className='wrapper__h3'>Brooklyn Simmons</h3>
+                    <p className='wrapper__p2'>20 Tahun, Mahasiswa</p>
                   </div>
                 </div>
               </div>
